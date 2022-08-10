@@ -1,4 +1,4 @@
 # MRMS SMP
 <br>
-### Contact
+### H3
 Discord Server: [Click Here](https://discord.gg/amc692KPqJ)
