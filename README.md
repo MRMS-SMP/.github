@@ -2,4 +2,4 @@
 <br>
 ## Contact
 <br>
-Discord Server: [Click Here](https://discord.gg/amc692KPqJ)
+Discord Server: <a href="https://discord.gg/amc692KPqJ">Click Here</a>
