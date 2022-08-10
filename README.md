@@ -1,5 +1,5 @@
-# Offical GitHub Page For The MRMS SMP!
+#MRMS SMP
 <br>
-### Contact
+###Contact
 ---
 Discord Server: [Click Here](https://discord.gg/amc692KPqJ)
