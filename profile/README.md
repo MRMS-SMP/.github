@@ -1,4 +1,3 @@
 ## MRMS SMP
 #### The Official Unnoficial Server for Moreland Ridge!
-[![Join Our Discord](https://discord.gg/amc692KPqJ)]
-(https://github.com/MRMS-SMP/.github/blob/main/discord.png)
+[![Maven Package](https://github.com/HypixelDev/PublicAPI/actions/workflows/maven.yml/badge.svg)](https://github.com/HypixelDev/PublicAPI/actions/workflows/maven.yml)
